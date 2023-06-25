@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="name">User</string>
+    <string name="username">Username</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="search_hint">Masukkan Nama</string>
+    <string name="followers">Followers</string>
+    <string name="followings">Followings</string>
+    <string name="follows">Follows</string>
+    <string name="number">0</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="label_fav">Favorite User</string>
+    <string name="label_detail">Detail User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
